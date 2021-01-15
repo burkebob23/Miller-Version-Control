@@ -1,0 +1,6 @@
+Updates for Sandwich Simulator:
+
+-Added roast beef as a sandwich meat
+-Can now build sextuple-burgers
+-Lowered likelihood of cooked ingredients spontaneously combusting
+-Added Szechuan sauce as a topping
