@@ -1,0 +1,5 @@
+Welcome to Sandwich Simulator!
+
+You can create the tastiest, most beautiful (or messiest) sandwiches ever!
+
+Have fun!
